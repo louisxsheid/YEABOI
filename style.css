@@ -8,12 +8,12 @@ body {
     text-align: center;
     font-family: "Arial";
 }
-#Presstoyeahboi {
-  width: 300px;
-  height: 300px;
+#yeahboi {
+  width: 100px;
+  height: 100px;
   border-radius: 150px;
   border-color: black;
-  background-color: red;
-  font-size: 50px;
+  background-color: brown;
+  font-size: 20px;
   color: white;
 }
